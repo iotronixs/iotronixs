@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jayesh Gautam A passionate tech enthusiast who’s been making the complicated simple since 2016.<br>🔭 I’m currently working on a web based treasure hunt game check it out on https://iotronixs.in<br>🌱 I’m currently learning a Django Framework<br>💬 Ask me about my robot builds<br>🧑‍🤝‍🧑 Member of FIRST Tech Challenge Robotics Championships (FTA)<br>🤝 Open for collaboration: Projects, Training, Workshop, Hackathon, Seminar, Webinar, and Guest Lecture<br>📧 You can reach me on iotronixs.enq@gmail.com<br>🌐 Let's connect on LinkedIn :https://in.linkedin.com/in/jayesh-gautam-9ab98779<br>⚡ Fun fact I am a Geeky Athlete, Love Football ⚽
+👋 Hi, I’m Jayesh Gautam A passionate tech enthusiast who’s been making the complicated simple since 2016.<br>🔭 I’m currently working on a CTF game check it out on https://iotronixs.in<br>🌱 I’m currently learning a Django Framework<br>💬 Ask me about my robot builds<br>🧑‍🤝‍🧑 Member of FIRST Tech Challenge Robotics Championships (FTA)<br>🤝 Open for collaboration: Projects, Training, Workshop, Hackathon, Seminar, Webinar, and Guest Lecture<br>📧 You can reach me on iotronixs.enq@gmail.com<br>🌐 Let's connect on LinkedIn :https://in.linkedin.com/in/jayesh-gautam-9ab98779<br>⚡ Fun fact I am a Geeky Athlete, Love Football ⚽
 
 
 
